@@ -1,7 +1,6 @@
 ---
 jupyter:
   jupytext:
-    formats: ipynb,md
     text_representation:
       extension: .md
       format_name: markdown
@@ -23,7 +22,7 @@ Certain physical newlines are ignored in order to form a complete logical line o
 
 ```python
 a = [1, 
-    2, # test 2 
+    2, # test pre-commit hook 
     3]
 ```
 
